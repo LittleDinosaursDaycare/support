@@ -1,0 +1,24 @@
+title: LDD Support
+description: A support website for Little Dinosaurs Daycare
+baseurl: "/support"
+url: "https://littledinosaursdaycare.github.com/support"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+aux_links:
+  "Group":
+    - "https://web.roblox.com/groups/13219133/Little-Dinosaurs-Daycare#!/about
+  "Daycare":
+    - "about:blank"
+  "Training Center":
+    - "https://web.roblox.com/games/8321259246/Training-Centre"
+  "Quiz Center":
+    - "about:blank"
+
+color_scheme: dark
+
+remote_theme: just-the-docs/just-the-docs
