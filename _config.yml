@@ -10,7 +10,7 @@ last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 aux_links:
-  "Group":
+   "Group":
     - "https://web.roblox.com/groups/13219133/Little-Dinosaurs-Daycare#!/about
   "Daycare":
     - "about:blank"
@@ -18,6 +18,7 @@ aux_links:
     - "https://web.roblox.com/games/8321259246/Training-Centre"
   "Quiz Center":
     - "about:blank"
+aux_links_new_tab: true
 
 color_scheme: dark
 
