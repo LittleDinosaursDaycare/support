@@ -24,4 +24,4 @@ color_scheme: dark
 
 remote_theme: just-the-docs/just-the-docs
 
-logo: "/img/littledinosuarsdaycare.png" <!--- not added img folder yet or littledinosuarsdaycare.png -->
+logo: "/img/littledinosuarsdaycare.png"  # not added img folder yet or littledinosuarsdaycare.png #
