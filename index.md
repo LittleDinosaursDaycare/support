@@ -3,7 +3,7 @@ layout: default
 title: Home page
 nav_order: 1
 has_children: false
-permalink: /support
+permalink: /support/home-page
 ---
 Welcome to the LDD support website!
 ***
